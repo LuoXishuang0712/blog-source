@@ -1,0 +1,16 @@
+{
+  "name": "luoxs_blog",
+  "version": "1.0.0",
+  "description": "LuoXishuang's Online Blog",
+  "main": "index.js",
+  "repository": "https://github.com/LuoXishuang0712/OnlineBlog",
+  "author": "LuoXishuang(https://github.com/LuoXishuang0712/)",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress dev build"
+  }
+}
