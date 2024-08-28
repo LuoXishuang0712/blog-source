@@ -1,6 +1,6 @@
 # 洛曦霜的笔记小站
 
-![Header](https://note-gallery-lxs.oss-cn-shanghai.aliyuncs.com/Typora/deeabb6d95d844228c969bf6352694b9-1724662048.png)
+![Header](https://blog-im-cdn.luoxishuang.cn/Typora/deeabb6d95d844228c969bf6352694b9-1724662048.png)
 
 [View in English(US)](/en/) - 上次更新 2024/08/26
 
@@ -44,10 +44,10 @@ WeChat(Luoxishuang0712)
 ### 赞助我
 
 <div style="display: flex; width: 100%">
-    <img style="width: 50%; object-fit: contain;" src="https://note-gallery-lxs.oss-cn-shanghai.aliyuncs.com/Typora/043d4ac84a0e4dfca895680d88aed35a-1724664914.JPG" alt="WeChat QR Code">
-    <img style="width: 50%; object-fit: contain;" src="https://note-gallery-lxs.oss-cn-shanghai.aliyuncs.com/Typora/9065809d692741208dfb0372c6a8d45b-1724664917.JPG" alt="Alipay QR Code">
+    <img style="width: 50%; object-fit: contain;" src="https://blog-im-cdn.luoxishuang.cn/Typora/043d4ac84a0e4dfca895680d88aed35a-1724664914.JPG" alt="WeChat QR Code">
+    <img style="width: 50%; object-fit: contain;" src="https://blog-im-cdn.luoxishuang.cn/Typora/9065809d692741208dfb0372c6a8d45b-1724664917.JPG" alt="Alipay QR Code">
 </div>
 
 本站使用[VuePress](https://vuepress.vuejs.org/)开发
 
-浙公网安备33068102000654号 | 浙ICP备2020036831号
+<img src="/beian.png" style="height: 1.2rem;"> [浙公网安备33068102000654号](https://beian.mps.gov.cn/#/query/webSearch?code=33068102000654) | [浙ICP备2020036831号](https://beian.miit.gov.cn/#/Integrated/index)

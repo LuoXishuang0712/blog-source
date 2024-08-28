@@ -1,6 +1,6 @@
 # Luo's Note Site
 
-![Header](https://note-gallery-lxs.oss-cn-shanghai.aliyuncs.com/Typora/deeabb6d95d844228c969bf6352694b9-1724662048.png)
+![Header](https://blog-im-cdn.luoxishuang.cn/Typora/deeabb6d95d844228c969bf6352694b9-1724662048.png)
 
 [用简体中文阅读](/) - Last Update 26/08/2024
 
@@ -44,8 +44,8 @@ WeChat(Luoxishuang0712)
 ### Support Me
 
 <div style="display: flex; width: 100%">
-    <img style="width: 50%; object-fit: contain;" src="https://note-gallery-lxs.oss-cn-shanghai.aliyuncs.com/Typora/043d4ac84a0e4dfca895680d88aed35a-1724664914.JPG" alt="WeChat QR Code">
-    <img style="width: 50%; object-fit: contain;" src="https://note-gallery-lxs.oss-cn-shanghai.aliyuncs.com/Typora/9065809d692741208dfb0372c6a8d45b-1724664917.JPG" alt="Alipay QR Code">
+    <img style="width: 50%; object-fit: contain;" src="https://blog-im-cdn.luoxishuang.cn/Typora/043d4ac84a0e4dfca895680d88aed35a-1724664914.JPG" alt="WeChat QR Code">
+    <img style="width: 50%; object-fit: contain;" src="https://blog-im-cdn.luoxishuang.cn/Typora/9065809d692741208dfb0372c6a8d45b-1724664917.JPG" alt="Alipay QR Code">
 </div>
 
 This site was built by [VuePress](https://vuepress.vuejs.org/)
